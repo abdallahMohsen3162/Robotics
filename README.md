@@ -3,3 +3,5 @@ File description
 # protues 8 prof
 
 Libraries -> containes all libraries needed for coding (Arduino ide for esp32 board and motor driver)
+
+init code test -> to test the libraries and try servo motors initially
